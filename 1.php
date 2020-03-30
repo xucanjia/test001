@@ -1,4 +1,1 @@
-<?php 
-
-	function_exists(runkit_function_rename(funcname, newname));
- ?>
+11111111111111
